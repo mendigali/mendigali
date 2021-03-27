@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendigali&show_icons=true&locale=en&layout=compact" alt="mendigali" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mendigali&show_icons=true&locale=en" alt="mendigali" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mendigali&show_icons=true&locale=en" alt="mendigali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendigali&" alt="mendigali" /></p>
 
