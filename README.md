@@ -25,13 +25,9 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendigali&show_icons=true&locale=en&layout=compact" alt="mendigali" /></p><br/>
-
-<h1></h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendigali&show_icons=true&locale=en&layout=compact" alt="mendigali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mendigali&show_icons=true&locale=en" alt="mendigali" /></p>
-
-<h1></h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mendigali&" alt="mendigali" /></p>
 
