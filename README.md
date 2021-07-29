@@ -1,7 +1,7 @@
-- Software engineering student at <a href="https://astanait.edu.kz/" target="_blank">Astana IT University</a>
+- Software engineering student at [Astana IT University](https://astanait.edu.kz/){:target="_blank" rel="noopener"}
 
-- Frontend developer at <a href="https://astanahub.com/account/company/1032/" target="_blank">Edvola</a>
+- Frontend developer at [Edvola](https://astanahub.com/account/company/1032/){:target="_blank" rel="noopener"}
 
-- Skills <b>Next.js & React & Sass & PostgreSQL & Docker</b>
+- Skills **Next.js & React & Sass & PostgreSQL & Docker**
 
-- Contact me <b>mendigalitemir13@gmail.com</b>
+- Contact me **mendigalitemir13@gmail.com**
