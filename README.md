@@ -1,6 +1,6 @@
-- Software engineering student at [Astana IT University](https://astanait.edu.kz/){:target="_blank" rel="noopener"}
+- Software engineering student at [**Astana IT University**](https://astanait.edu.kz/)
 
-- Frontend developer at [Edvola](https://astanahub.com/account/company/1032/){:target="_blank" rel="noopener"}
+- Frontend developer at [**Edvola**](https://astanahub.com/account/company/1032/)
 
 - Skills **Next.js & React & Sass & PostgreSQL & Docker**
 
