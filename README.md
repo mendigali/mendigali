@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Temir</h1>
-<h3 align="center">Software engineering student from Astana IT University</h3>
+<h3 align="center">Frontend developer and software engineering student</h3>
 
-- Currently working on [Digital Urpaq](https://github.com/mendigali/digital-urpaq)
+- Student at Astana IT University
 
-- Learning **React & Node & PostgreSQL**
+- Frontend developer in a startup [Edvola](https://astanahub.com/account/company/1032/)
 
-- Contact me **mendigalitemir13@gmail.com**
+- Skills <b>Next.js & React & SASS & PostgreSQL & Docker</b>
+
+- Contact me <b>mendigalitemir13@gmail.com</b>
